@@ -1,0 +1,128 @@
+{
+  "source": "Labcorp SI Unit Conversion Table",
+  "url": "https://www.labcorp.com/resource/si-unit-conversion-table",
+  "retrieved": "2026-10-15",
+  "note": "교차 검증 전용. 앱 코드는 이 값을 사용하지 않는다. factors는 문자열(유효숫자 확인용).",
+  "rows": [
+    {
+      "analyteId": "glucose",
+      "labcorpName": "Glucose (blood)",
+      "from": "mg/dL",
+      "to": "mmol/L",
+      "convToSI": "0.0555",
+      "siToConv": "18.02"
+    },
+    {
+      "analyteId": "creatinine",
+      "labcorpName": "Creatinine (serum)",
+      "from": "mg/dL",
+      "to": "umol/L",
+      "convToSI": "88.4",
+      "siToConv": "0.0113"
+    },
+    {
+      "analyteId": "cholesterol",
+      "labcorpName": "Cholesterol",
+      "from": "mg/dL",
+      "to": "mmol/L",
+      "convToSI": "0.0259",
+      "siToConv": "38.61"
+    },
+    {
+      "analyteId": "triglycerides",
+      "labcorpName": "Triglycerides",
+      "from": "mg/dL",
+      "to": "mmol/L",
+      "convToSI": "0.0113",
+      "siToConv": "88.5"
+    },
+    {
+      "analyteId": "urea",
+      "labcorpName": "Urea nitrogen, blood (BUN)",
+      "from": "mg/dL{BUN}",
+      "to": "mmol/L",
+      "convToSI": "0.357",
+      "siToConv": "2.80"
+    },
+    {
+      "analyteId": "uric-acid",
+      "labcorpName": "Uric acid (serum)",
+      "from": "mg/dL",
+      "to": "mmol/L",
+      "convToSI": "0.059",
+      "siToConv": "16.9"
+    },
+    {
+      "analyteId": "bilirubin",
+      "labcorpName": "Bilirubin, total (serum)",
+      "from": "mg/dL",
+      "to": "umol/L",
+      "convToSI": "17.1",
+      "siToConv": "0.0585"
+    },
+    {
+      "analyteId": "calcium",
+      "labcorpName": "Calcium (serum)",
+      "from": "mg/dL",
+      "to": "mmol/L",
+      "convToSI": "0.25",
+      "siToConv": "4"
+    },
+    {
+      "analyteId": "magnesium",
+      "labcorpName": "Magnesium (serum)",
+      "from": "mg/dL",
+      "to": "mmol/L",
+      "convToSI": "0.4114",
+      "siToConv": "2.43"
+    },
+    {
+      "analyteId": "phosphate",
+      "labcorpName": "Phosphorus (serum)",
+      "from": "mg/dL",
+      "to": "mmol/L",
+      "convToSI": "0.323",
+      "siToConv": "3.10"
+    },
+    {
+      "analyteId": "albumin",
+      "labcorpName": "Albumin, serum",
+      "from": "g/dL",
+      "to": "g/L",
+      "convToSI": "10",
+      "siToConv": "0.10"
+    },
+    {
+      "analyteId": "total-protein",
+      "labcorpName": "Protein (serum)",
+      "from": "g/dL",
+      "to": "g/L",
+      "convToSI": "10",
+      "siToConv": "0.10"
+    },
+    {
+      "analyteId": "sodium",
+      "labcorpName": "Sodium (blood)",
+      "from": "meq/L",
+      "to": "mmol/L",
+      "convToSI": "1",
+      "siToConv": "1"
+    },
+    {
+      "analyteId": "potassium",
+      "labcorpName": "Potassium (blood)",
+      "from": "meq/L",
+      "to": "mmol/L",
+      "convToSI": "1",
+      "siToConv": "1"
+    },
+    {
+      "analyteId": "chloride",
+      "labcorpName": "Chloride (serum)",
+      "from": "meq/L",
+      "to": "mmol/L",
+      "convToSI": "1",
+      "siToConv": "1"
+    }
+  ]
+}
